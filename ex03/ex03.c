@@ -9,6 +9,6 @@ void ft_is_negative(int n)
     else
     {
         ft_putchar('P');
-    } fg
+    }
     ft_putchar('\n');
 }
